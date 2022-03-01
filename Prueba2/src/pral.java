@@ -15,6 +15,7 @@ public class pral {
 		char cad[] = new char[10], aux;
 		String nom;
 		double salario;
+		//nota
 		int pos, num, dep;
 		if (file.length() > 0) {
 			pos = 0;
