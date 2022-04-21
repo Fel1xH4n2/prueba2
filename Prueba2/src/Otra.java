@@ -15,7 +15,7 @@ public static void crear() throws IOException {
 
 	StringBuffer buffer = null;
 	int n = apellido.length;
-
+// oewpweoi peoi pew
 	for (int i = 0; i < n; i++) {
 		file.writeInt(i + 1);
 		buffer = new StringBuffer(apellido[i]);
